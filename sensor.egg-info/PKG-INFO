@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: sensor
+Version: 0.0.1
+Author: Pranavi Gote
+Author-email: pranavigote@gmail.com
+Requires-Dist: pymongo
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
